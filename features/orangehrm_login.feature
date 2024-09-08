@@ -19,4 +19,9 @@ Feature: OrangeHRM Login
       | username | password |
       | admin    | admin123 |
       | admin123 | admin    |
+<<<<<<< HEAD
       | Admin    | admin234 |
+=======
+      | Admin    | admin234 |
+      | Admin    | admin123 |
+>>>>>>> c42be33 (changes commit)
