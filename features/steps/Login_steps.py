@@ -5,11 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-<<<<<<< HEAD
-
-=======
 from allure_behave.formatter import AllureFormatter
->>>>>>> c42be33 (changes commit)
 
 @given('I launch the chrome browser')
 def step_impl(context):
