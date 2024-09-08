@@ -4,3 +4,4 @@ Feature: OrangeHRM Logo
     When open orange hrm homepage
     Then verify logo is present on homepage
     And close browser
+
